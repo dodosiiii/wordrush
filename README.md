@@ -4,7 +4,7 @@ World Rush est un jeu d'association d'idées rapide et compétitif codé en Pyth
 
 ##  Prérequis Importants
 
-Ce projet nécessite une version récente de Python pour fonctionner correctement.
+Ce projet nécessite une version ancienne de Python pour fonctionner correctement.
 
 *   **Python 3.13** (Requis)
 *   Bibliothèque **pygame**
