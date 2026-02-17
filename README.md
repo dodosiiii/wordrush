@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 
-#  World Rush (v0.41)
+#  World Rush (v0.42)
 
 Un jeu d'association d'idées rapide et compétitif, jouable en local ou en ligne.
 
-##  Nouveautés de la version 0.4
+##  Nouveautés de la version 0.42
 - **Système de "Gel du Temps"** : Achetez des charges et figez le chronomètre pendant 5 secondes !
 - **Nouveaux Packs de Mots** : Jeux Vidéo, Nourriture, Super-Héros, Horreur.
 - **Mode Développeur Amélioré** : Interface visuelle et nouvelles commandes de test.
@@ -146,4 +145,5 @@ Un jeu d'association d'idées rapide et compétitif, jouable en local ou en lign
 *   **Espace** : Passer au tour suivant (Mode Vocal).
 
 *Développé avec Python & Pygame.*
+
 >>>>>>> cde582d (Sauvegarde locale avant pull)
